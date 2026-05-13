@@ -1,6 +1,6 @@
 
 
-DATE:- 13/07/2020    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2020      REGION: CHANDIGARH         PAGE:-       1
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-       1
                                                 ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -9,52 +9,780 @@ NO      L X                                                     SUB CD  SUB CD  
                                                                 MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-SCHOOL : - 24944   K V BHADARWAH DISTT DODA J&K                    
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
 
-13695381   F AKRITI CHANDAIL                                     301     302     042     043     044              A1 A2 A1    PASS                      
-                                                                086  B1 077  B2 070  C1 071  C1 078  C1     
-13695382   F ARUSHI GUPTA                                        301     302     042     043     044              A1 A2 A1    PASS                      
-                                                                082  B2 083  B1 070  C1 084  B1 088  B1     
-13695383   F ISHIKA PARIHAR                                      301     302     042     043     044              A2 A2 A1    PASS                      
-                                                                076  C2 072  C1 069  C1 072  C1 074  C1     
-13695384   F NANCY SHARMA                                        301     041     042     043     044              A1 A2 A1    PASS                      
-                                                                084  B2 073  B2 072  C1 082  B1 088  B1     
-13695385   F PURODHIKA GUPTA                                     301     041     042     043     044              A1 A2 A1    PASS                      
-                                                                083  B2 067  C1 072  C1 082  B1 089  B1     
-13695386   F SHRIYA MANHAS                                       301     041     042     043     083              A1 A1 A1    PASS                      
-                                                                095  A1 077  B2 080  B1 084  B1 087  B2     
-13695387   F SUHANI KOTWAL                                       301     302     042     043     044              A1 A1 A1    PASS                      
-                                                                083  B2 080  B1 075  B2 080  B1 078  C1     
-13695388   F TANYIA BLORIA                                       301     302     042     043     044              A2 A2 A1    PASS                      
-                                                                081  C1 078  B1 065  C2 069  C1 081  B2     
-13695389   F SIMRAN KOTWAL                                       301     302     042     043     044              A2 A1 A1    PASS                      
-                                                                089  B1 082  B1 067  C2 075  B2 084  B2     
-13695390   M ANUJ KOTWAL                                         301     302     042     043     044              A2 A1 A1    PASS                      
-                                                                073  C2 086  A2 085  A2 089  A2 085  B2     
+32669894   F AADRIKA SHARMA                                      301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 084  B1 053  C2 057  C1 070  B1 070  C1 096  B1
 
-13695391   M ASHIT KUMAR                                         301     041     042     043     044              A1 A1 A1    PASS                      
-                                                                080  C1 066  C1 079  B1 082  B1 094  A2     
-13695392   M AKHILESH SHARMA                                     301     041     042     043     044              A2 A2 A2    PASS                      
-                                                                064  D1 067  C1 066  C2 065  C2 071  C2     
-13695393   M AKASH KUMAR MANHAS                                  301     041     042     043     083              A1 A1 A1    PASS                      
-                                                                063  D1 073  B2 084  B1 086  B1 081  C1     
-13695394   M MOHAMED MUBBASHIR JOHN                              301     041     042     043     083              A2 A1 A1    PASS                      
-                                                                071  C2 067  C1 056  D1 069  C1 074  D1     
-13695395   M RUDRA YOGI                                          301     302     042     043     044              A2 A2 A2    PASS                      
-                                                                081  C1 083  B1 069  C1 079  B1 090  B1     
-13695396   M SAKHSHAM KOTWAL                                     301     302     042     043     044              A1 A1 A1    PASS                      
-                                                                073  C2 087  A2 085  A2 084  B1 095  A1     
-13695397   M HIM SHIKHAR KATOCH                                  301     041     042     043     044              A1 A1 A1    PASS                      
-                                                                082  B2 091  A2 083  B1 093  A2 092  A2     
-13695398   M VISHANT CHARAK                                      301     041     042     043     083              A1 A1 A1    PASS                      
-                                                                079  C1 069  C1 072  C1 068  C1 076  C2     
-13695399   M KAMALJEET SHARMA                                    301     041     042     043     083              A2 A2 A2    PASS                      
-                                                                073  C2 056  D1 066  C2 074  B2 072  D1     
-13695400   M HEMAL KUMAR                                         301     041     042     043     083              A1 A1 A2    PASS                      
-                                                                080  C1 087  A2 076  B2 093  A2 090  B1     
+32669895   F AKRITI TIWARI                                       301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 085  B1 046  D1 061  B2 059  C1 060  D1 091  C1
+32669896   F AKSHITA KUMARI                                      301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 094  A1 046  D1 058  C1 065  B2 065  C2 095  B1
+32669897   F ANJALI                                              301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 075  C1 057  C1 052  D1 066  B2 061  D1 081  D1
+32669898   F ANSHIKA UPADHYAY                                    301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 074  C1 062  B2 062  B2 084  A2 076  B2 092  C1
+32669899   F ASRA AZEEM                                          301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 087  B1 074  B1 081  A1 085  A2 085  B1 100  A1
+32669900   F ASTHA UPADHYAY                                      301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 085  B1 080  A2 076  A2 084  A2 084  B1 099  A2
+32669901   F KRITEEKA SINGH                                      301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 095  A1 050  C2 058  C1 078  A2 058  D1 092  C1
+32669902   F MAHIMA SHUKLA                                       301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 093  A1 063  B2 069  B1 090  A1 067  C2 098  A2
+32669903   F SNEHA MISHRA                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 085  B1 063  B2 084  A1 084  A2 089  A2 099  A2
+32669904   F SHRISTI SINGH                                       301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 073  C2 046  D1 055  C2 054  C2 057  D1 082  D1
 
-13695401   M PRAJUAL KOTWAL                                      301     041     042     043     044              A1 A1 A1    PASS                      
-                                                                076  C2 080  B1 075  B2 084  B1 071  C2     
+32669905   F VAISHNAVI TIWARI                                    301     041     043     083     843     042      A1 A1 A1    PASS                      
+                                                                 086  B1 045  D2 052  D1 062  C2 082  D1 040  E 
+32669906   M AARADHYA PRATAP SINGH                               301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 093  A1 049  C2 066  B1 075  B1 078  B2 092  C1
+32669907   M AARNAV YADAV                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 098  A1 071  B1 079  A1 092  A1 091  A2 089  C1
+32669908   M ABHISHEK SINGH                                      301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 095  A1 067  B1 077  A2 084  A2 074  C1 092  C1
+32669909   M ADITYA KUMAR                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 096  A1 068  B1 080  A1 082  A2 080  B2 097  A2
+32669910   M ADITYA SINGH                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 092  A1 086  A1 086  A1 098  A1 092  A1 099  A2
+32669911   M AKSHAT SAROJ                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 082  B2 053  C2 066  B1 079  A2 072  C1 096  B1
+32669912   M AKSHAY PRATAP SINGH                                 301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 072  C2 045  D2 052  D1 061  C1 066  C2 083  D1
+32669913   M ATHARVA SRIVASTAVA                                  301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 090  A2 089  A1 089  A1 083  A2 071  C1 096  B1
+32669914   M AYUSH KUMAR SINGH                                   301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 089  A2 052  C2 054  C2 072  B1 064  C2 092  C1
+
+32669915   M BHANU PRATAP MAURYA                                 301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 083  B2 058  C1 069  B1 085  A2 078  B2 080  D1
+32669916   M CHAITANYA DHIMAN                                    301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 076  C1 053  C2 061  B2 076  B1 076  B2 097  A2
+
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-       2
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
+
+32669917   M DIVYANSH MISHRA                                     301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 092  A1 051  C2 058  C1 059  C1 075  B2 096  B1
+32669918   M JYOTIRADITYA SINGH                                  301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 090  A2 048  C2 052  D1 062  C1 057  D1 084  D1
+32669919   M KRISH SHARMA                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 078  C1 058  C1 061  B2 071  B1 053  D2 090  C1
+32669920   M KUNAL SINGH POKHARIYA                               301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 077  C1 053  C2 080  A1 086  A2 067  C2 083  D1
+32669921   M NAITIK SINGH                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 085  B1 055  C1 067  B1 081  A2 060  D1 088  C2
+32669922   M NIKHIL TIWARI                                       301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 088  A2 072  B1 075  A2 086  A2 082  B1 086  C2
+32669923   M OJAS SINGH                                          301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 076  C1 049  C2 059  C1 069  B2 058  D1 088  C2
+32669924   M PRANAV KUMAR PANDEY                                 301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 085  B1 053  C2 066  B1 067  B2 066  C2 095  B1
+
+32669925   M PREETAM NISHAD                                      301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 091  A2 058  C1 072  A2 067  B2 080  B2 095  B1
+32669926   M PRIYANSHU RAWAT                                     301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 068  C2 090  A1 087  A1 094  A1 088  A2 096  B1
+32669927   M SAMEER YADAV                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 067  C2 046  D1 052  D1 058  C2 070  C1 088  C2
+32669928   M SHIVANSH PRATAP SINGH                               301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 093  A1 070  B1 053  D1 059  C1 059  D1 078  D2
+32669929   M SHIVOM SHUKLA                                       301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 066  D1 046  D1 053  D1 053  D1 054  D2 080  D1
+32669930   M SHUBH MISHRA                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 086  B1 068  B1 081  A1 086  A2 060  D1 095  B1
+32669931   M TANMAY KUMAR                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 080  B2 050  C2 060  B2 066  B2 063  C2 079  D1
+32669932   M TANMAY SINGH                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 091  A2 089  A1 087  A1 098  A1 093  A1 093  B2
+32669933   M VARDAN KANAUJIA                                     301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 073  C2 046  D1 061  B2 063  C1 056  D1 083  D1
+32669934   M VATSAL PRATAP SINGH                                 301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 089  A2 062  B2 071  A2 079  A2 067  C2 095  B1
+
+32669935   M ABDUL REHMAN KHAN                                   301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 075  C1 080  B2 053  D1 064  B2 062  C2 092  B1
+32669936   M ANIKET RANJAN SRIVAS                                301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 090  A2 067  B1 089  A1 094  A1 081  B1 089  B2
+32669937   F ABHINANDA NAIR                                      301     041     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 087  B1 047  D1 059  C1 073  B1 077  B2 088  C1
+32669938   F ANSHU YADAV                                         301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 083  B2 049  C2 057  C1 071  B1 067  C2 090  C1
+32669939   M AYUSH SHUKLA                                        301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 074  C1 080  A2 078  A2 085  A2 088  A2 085  C2
+
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-       3
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
+
+32669940   F ANUSHKA TIWARI                                      301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 091  A2 086  B1 057  C1 063  C1 053  D2 090  B2
+32669941   F ANJU RAWAT                                          301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 062  D1 077  C1 052  D1 051  D2 055  D1 087  C1
+32669942   F AYUSHI KUMARI                                       301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 088  A2 080  B2 052  D1 058  C2 056  D1 091  B2
+32669943   F AYUSHI YADAV                                        301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 085  B1 088  A2 062  B2 065  B2 056  D1 093  B1
+32669944   F AYUSHI KUMARI                                       301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 078  C1 081  B2 052  D1 052  D1 061  C2 082  D1
+
+32669945   F ASTHA RAI                                           301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 087  B1 082  B2 079  A1 098  A1 096  A1 096  A2
+32669946   F DEEPALI                                             301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 085  B1 073  C2 053  D1 062  C1 069  C1 084  C2
+32669947   F DIVYA SINGH                                         301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 089  A2 046  D1 057  C1 075  B1 060  D1 087  C1
+32669948   F HIMANSHI MISHRA                                     301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 074  C1 078  C1 053  D1 062  C1 061  C2 070  D2
+32669949   M JAI MISHRA                                          301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 081  B2 077  A2 072  A2 081  A2 059  D1 084  C2
+32669950   F KUMARI NIDHI YADAV                                  301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 072  C2 095  A1 052  D1 077  B1 068  C1 074  D2
+32669951   M KANISHK SINGH CHANDRAVANSHI                         301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 079  B2 077  A2 089  A1 093  A1 076  B2 098  A1
+32669952   F KHUSHBOO SINGH                                      301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 068  C2 072  C2 052  D1 052  D1 052  D2 076  D2
+32669953   F MAHAK YADAV                                         301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 077  C1 086  B1 052  D1 058  C2 064  C2 090  B2
+32669954   F MAHIMA                                              301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 090  A2 066  D1 055  C2 074  B1 070  C1 093  B1
+
+32669955   F NANCY TIWARI                                        301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 083  B2 084  B1 057  C1 072  B1 065  C1 085  C2
+32669956   F POOJA YADAV                                         301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 065  D1 089  A2 052  D1 061  C1 072  B2 083  C2
+32669957   F PARI MAURYA                                         301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 092  A1 088  A2 055  C2 068  B2 075  B2 091  B2
+32669958   F PALLAWI KUMARI                                      301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 068  C2 075  C1 052  D1 052  D1 051  D2 081  D1
+32669959   F PRACHI PANDEY                                       301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 094  A1 094  A1 086  A1 098  A1 094  A1 095  A2
+32669960   M PRIYANSHU SINGH                                     301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 085  B1 045  D2 053  D1 081  A2 069  C1 084  C2
+32669961   F RUTHI MALSAWMZUALI                                  301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 095  A1 081  B2 081  A1 094  A1 095  A1 096  A2
+32669962   M RAVISHEK TIWARI                                     301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 081  B2 050  C2 061  B2 070  B1 061  D1 095  A2
+
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-       4
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
+
+32669963   F SAZIA BANO                                          301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 062  D1 063  D1 052  D1 052  D1 051  D2 074  D2
+32669964   F SHWETA PANDEY                                       301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 096  A1 094  A1 053  D1 076  B1 086  A2 099  A1
+
+32669965   M SHRIPATI SHUKLA                                     301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 082  B2 082  A2 091  A1 096  A1 079  B2 096  A2
+32669966   F SRISHTHI MISHRA                                     301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 084  B1 074  C2 052  D1 079  A2 071  B2 074  D2
+32669967   F STUTI YADAV                                         301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 074  C1 056  C1 064  B2 074  B1 082  B1 096  A2
+32669968   M SURYA PRAKASH SINGH                                 301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 071  C2 085  B1 055  C2 075  B1 053  D2 076  D2
+32669969   F SUDESHNA KAR                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 090  A2 075  A2 081  A1 092  A1 087  A2 087  C2
+32669970   F TANISHA KUMARI                                      301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 094  A1 046  D1 068  B1 091  A1 061  D1 094  A2
+32669971   F VAISHNAVI KANOJIA                                   301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 069  C2 089  A2 053  D1 065  B2 058  D1 077  D1
+32669972   F PRIYANSI MISHRA                                     301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 077  C1 046  D1 057  C1 065  B2 053  D2 086  C1
+32669973   M ANANT KUMAR                                         301     042     043     044     065     843      A1 A1 A1    PASS                      
+                                                                 079  B2 052  D1 070  B1 075  B2 074  C2 092  C1
+32669974   F SAKSHI SINGH                                        301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 087  B1 084  B1 057  C1 085  A2 080  B1 084  C2
+
+32669975   F ASHNA SHARMA                                        301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 093  A1 091  A2 057  C1 082  A2 080  B1 085  C2
+32669976   F ANSHIKA SINGH                                       301     302     041     042     043     841      A1 A1 A1    PASS                      
+                                                                 084  B1 093  A1 046  D1 057  C1 067  B2 090  B2
+32669977   F TULIP PATHAK                                        301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 074  C1 094  A1 052  D1 066  B2 080  B1 091  B2
+32669978   F KASHISH KHAN                                        301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 080  B2 084  B1 058  C1 077  B1 073  B2 080  D1
+32669979   F VEDANSHI SINGH                                      301     042     043     044     065     841      A1 A1 A1    PASS                      
+                                                                 094  A1 062  B2 077  B1 066  C1 086  B2 091  B2
+32669980   F CHARU YADAV                                         301     042     043     044     065     841      A1 A1 A1    PASS                      
+                                                                 091  A2 053  D1 061  C1 070  C1 080  C1 086  C1
+32669981   F PALAK                                               301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 072  C2 086  B1 054  C2 083  A2 094  A1 092  B1
+32669982   F SWETA KUMARI                                        301     042     043     044     065     841      A1 A1 A1    PASS                      
+                                                                 082  B2 066  B1 070  B1 089  A2 091  B1 096  A2
+32669983   F MANNYA VISHWAKARMA                                  301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 092  A1 082  B2 071  A2 086  A2 093  A1 097  A1
+32669984   M PUNEET SINGH RAJ                                    301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 064  D1 063  D1 051  D2 051  D2 051  D2 074  D2
+
+32669985   M DEEPAK YADAV                                        301     042     043     044     065     841      A1 A1 A1    PASS                      
+                                                                 090  A2 068  B1 099  A1 091  A1 096  A1 098  A1
+
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-       5
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
+
+32669986   F PRACHI PATEL                                        301     042     043     044     065     841      A1 A1 A1    PASS                      
+                                                                 079  B2 053  D1 071  B1 060  C2 083  C1 081  D1
+32669987   F KUMARI PRIYA YADAV                                  301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 074  C1 093  A1 053  D1 071  B1 091  A1 093  B1
+32669988   M ANSH SAINI                                          301     302     041     042     043     841      A1 A1 A1    PASS                      
+                                                                 076  C1 067  D1 051  C2 051  D2 072  B1 085  C2
+32669989   M SURAJ SINGH                                         301     302     041     042     043     841      A1 A1 A1    PASS                      
+                                                                 061  D1 074  C2 056  C1 059  C1 081  A2 074  D2
+32669990   F ANSHIKA                                             301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 082  B2 088  A2 052  D1 070  B1 081  B1 096  A2
+32669991   F NEHA KUMARI                                         301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 081  B2 081  B2 066  B1 068  B2 075  B2 085  C2
+32669992   F RAKHI PAL                                           301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 090  A2 095  A1 057  C1 088  A1 090  A2 095  A2
+32669993   M ADITYA KUMAR CHAUDHARY                              301     302     041     042     043     841      A1 A1 A1    PASS                      
+                                                                 078  C1 093  A1 057  C1 059  C1 081  A2 087  C1
+32669994   F SHREYA DWIVEDI                                      301     302     041     043     841     042      A1 A1 A1    PASS                      
+                                                                 072  C2 088  A2 046  D1 058  C2 078  D1 039  E 
+
+32669995   F DEEPMALA                                            301     302     041     042     043     841      A1 A1 A1    PASS                      
+                                                                 088  A2 087  B1 047  D1 059  C1 062  C1 097  A1
+32669996   M ANMOL KRISHAN MISHRA                                301     302     041     042     043     841      A1 A1 A1    PASS                      
+                                                                 089  A2 092  A1 063  B2 068  B1 091  A1 093  B1
+32669997   F DIVYA KANOUJIA                                      301     302     041     042     043     841      A1 A1 A1    PASS                      
+                                                                 087  B1 084  B1 076  A2 078  A2 096  A1 093  B1
+32669998   F SNEHA GUPTA                                         301     302     041     042     043     841      A1 A1 A1    PASS                      
+                                                                 085  B1 085  B1 047  D1 051  D2 083  A2 090  B2
+32669999   F JANVI YADAV                                         301     302     041     042     043     841      A1 A1 A1    PASS                      
+                                                                 095  A1 084  B1 055  C1 061  B2 077  B1 099  A1
+32670000   M ABHINASH KUMAR YADAV                                301     041     042     043     065     841      A1 A1 A1    PASS                      
+                                                                 081  B2 065  B2 057  C1 075  B1 084  B2 091  B2
+32670001   F NANDNI                                              301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 074  C1 090  A2 061  B2 077  B1 068  C1 094  A2
+32670002   M AKSHAT ALOK NIGAM                                   301     042     043     044     065     841      A1 A1 A1    PASS                      
+                                                                 089  A2 066  B1 081  A2 086  A2 092  A2 096  A2
+32670003   M DHIRAJ YADAV                                        301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 069  C2 073  C2 053  D1 062  C1 052  D2 080  D1
+32670004   F AKSHARA                                             301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 057  D1 082  B2 049  D1 063  C1 045  D2 085  C2
+
+32670005   F ANUSHKA GAUTAM                                      301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 057  D1 089  A2 052  D1 055  C2 052  C2 087  C1
+32670006   M RISHU PRASAD                                        301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 060  D1 079  C1 058  C2 047  D2 057  C1 082  D1
+32670007   F MAHEK                                               301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 083  B2 089  A2 073  B2 086  A2 062  B2 095  A2
+32670008   F TANVI                                               301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 056  D2 090  A2 052  D1 048  D1 056  C1 084  C2
+
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-       6
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
+
+32670009   F ISHIKA                                              301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 070  C2 073  C2 049  D1 048  D1 047  D1 067  D2
+32670010   M VISHAL SINGH                                        301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 059  D1 066  D1 046  D2 058  C2 056  C1 076  D2
+32670011   M AMIT YADAV                                          301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 050  D2 060  D1 046  D2 044  D2 045  D2 074  D2
+32670012   F AISHA KUMARI                                        301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 065  D1 059  D2 062  C1 049  D1 063  B2 082  D1
+32670013   M GAURAV THAPA                                        301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 053  D2 080  B2 059  C2 058  C2 050  C2 083  C2
+32670014   M SAMEER THAPA                                        301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 056  D2 056  D2 049  D1 045  D2 046  D1 073  D2
+
+32670015   F SONU JOSHI                                          301     030     041     054     055     841      A1 A1 A1    PASS                      
+                                                                 084  B1 083  A2 061  B2 088  A2 074  B1 095  A2
+32670016   F ANSHIKA                                             301     030     041     054     055     841                  ABST                      
+                                                                                                                
+32670017   F BHUMIKA SINGH                                       301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 055  D2 078  C1 048  D2 048  D1 046  D1 088  C1
+32670018   M SHAUMYA SHUKLA                                      301     030     041     054     055     841      A1 A1 A1    PASS                      
+                                                                 066  D1 063  C1 046  D1 048  D1 055  C1 083  C2
+32670019   M ARYAN RAWAT                                         301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 066  D1 058  D2 046  D2 055  C2 052  C2 082  D1
+32670020   F KAJAL THAPA                                         301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 054  D2 059  D2 046  D2 047  D2 045  D2 073  D2
+32670021   M VISHU KUMAR SHARMA                                  301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 068  C2 064  D1 052  D1 048  D1 046  D1 082  D1
+32670022   F KUMARI KHUSHI                                       301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 063  D1 082  B2 066  C1 063  C1 046  D1 080  D1
+32670023   F PRINCI                                              301     302     030     055     841     054      A1 A1 A1    PASS                      
+                                                                 054  D2 067  D1 045  D2 046  D1 074  D2 034  E 
+32670024   M PRODIPTO MAZUMDAR                                   301     302     030     054     841     055      A1 A1 A1    PASS                      
+                                                                 056  D2 073  C2 065  C1 046  D2 089  B2 032  E 
+
+32670025   M SHASHWAT PANDEY                                     301     030     041     054     055     841      A1 A1 A1    PASS                      
+                                                                 067  C2 075  B1 058  C1 072  B2 070  B1 084  C2
+32670026   M HARSHIT GUPTA                                       301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 068  C2 076  C1 047  D2 059  C2 046  D1 081  D1
+32670027   M ROHAN SINGH                                         301     030     041     054     055     841      A1 A1 A1    PASS                      
+                                                                 061  D1 076  B1 050  C2 063  C1 072  B1 078  D1
+32670028   F KAJAL YADAV                                         301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 066  D1 077  C1 055  C2 047  D2 045  D2 081  D1
+32670029   M ANKIT YADAV                                         301     302     030     054     841     055      A1 A1 A1    PASS                      
+                                                                 051  D2 064  D1 047  D2 045  D2 083  C2 030  E 
+32670030   F SIMRAN KUMARI                                       301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 060  D1 068  D1 064  C1 048  D1 046  D1 091  B2
+32670031   M MEHTAB KHAN                                         301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 056  D2 076  C1 072  B2 055  C2 046  D1 082  D1
+
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-       7
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
+
+32670032   F SUPRIYA CHAURASIA                                   301     030     041     054     055     841      A1 A1 A1    PASS                      
+                                                                 067  C2 065  C1 049  C2 053  C2 050  C2 085  C2
+32670033   M SURAJ YADAV                                         301     030     041     054     055     841      A1 A1 A1    PASS                      
+                                                                 069  C2 066  C1 045  D2 047  D2 047  D1 081  D1
+32670034   M ABHINAV SINGH                                       301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 056  D2 065  D1 049  D1 048  D1 047  D1 068  D2
+
+32670035   M ABHINAV TIWARI                                      301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 061  D1 081  B2 058  C2 063  C1 069  B1 091  B2
+32670036   F ANCHAL                                              301     302     030     055     841     054      A1 A1 A1    PASS                      
+                                                                 045  D2 064  D1 046  D2 045  D2 075  D2 026  E 
+32670037   F ARUSHI SINGH                                        301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 070  C2 080  B2 058  C2 054  C2 046  D1 081  D1
+32670038   M DEV PRATAP SINGH CHAUHAN                            301     302     030     055     841     054      A1 A1 A1    COMP               055 054
+                                                                 045  D2 071  C2 046  D2 031  E  072  D2 030  E 
+32670039   M KRISHNA                                             301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 045  D2 076  C1 055  C2 047  D2 046  D1 086  C1
+32670040   F MAHI                                                301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 068  C2 054  D2 046  D2 047  D2 045  D2 068  D2
+32670041   M MOHD ARIF ANSARI                                    301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 048  D2 067  D1 046  D2 046  D2 046  D1 067  D2
+32670042   F PRITI KUMARI                                        301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 091  A2 082  B2 072  B2 063  C1 047  D1 088  C1
+32670043   M SAJID ALI                                           301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 045  D2 051  D2 060  C2 047  D2 045  D2 066  D2
+32670044   M SARTHAK SRIVASTAVA                                  301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 062  D1 079  C1 062  C1 047  D2 050  C2 078  D1
+
+32670045   M SHIVANSH YADAV                                      301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 050  D2 065  D1 060  C2 052  D1 044  D2 084  C2
+32670046   F SHRISHTI SHARMA                                     301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 076  C1 086  B1 072  B2 076  B1 055  C1 092  B1
+32670047   M SUMIT KUMAR                                         301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 071  C2 081  B2 079  B1 082  A2 081  A2 087  C1
+32670048   M VIKASH SINGH                                        301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 054  D2 071  C2 066  C1 050  D1 057  C1 085  C2
+32670049   M VISHESH RAJ                                         301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 070  C2 075  C1 047  D2 049  D1 047  D1 076  D2
+32670050   F AFIFA FATIMA                                        301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 060  D1 056  C2 048  D1 047  D1 069  D1 090  B2
+32670051   M AVNEESH KUMAR PANDEY                                301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 083  B2 077  B1 088  A2 069  B1 092  A2 090  B2
+32670052   M AYUSH PRATAP SINGH                                  301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 067  C2 053  D1 058  C2 055  C1 067  D1 094  A2
+32670053   M ISHANT PAL                                          301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 059  D1 063  C1 059  C2 046  D1 068  D1 077  D1
+32670054   F KALASH SAHU                                         301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 075  C1 087  B1 063  C1 053  C2 046  D1 086  C1
+
+
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-       8
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
+
+32670055   M KARTIKEY YADAV                                      301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 063  D1 053  D1 053  C2 046  D1 058  D2 081  D1
+32670056   M PRIYANSHU SARKAR                                    301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 080  B2 072  B2 073  B2 058  C1 075  C2 090  B2
+32670057   F RADHA KUMARI                                        301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 090  A2 076  B1 067  B2 061  B2 091  B1 089  B2
+32670058   M RUDRA PRATAP SINGH                                  301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 082  B2 055  C2 062  C1 070  B1 084  B2 075  D2
+32670059   M SHIVANSH KUMAR                                      301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 070  C2 083  A2 087  A2 069  B1 096  A1 096  A2
+32670060   M SHARVAN KUMAR SINGH                                 301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 074  C1 053  D1 047  D2 057  C1 069  D1 078  D1
+32670061   F SHREYA NARANG                                       301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 076  C1 074  B1 069  B2 055  C1 075  C2 091  B2
+32670062   M TANAY SINGH NEGI                                    301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 073  C2 085  A2 057  C2 070  B1 078  C2 077  D1
+32670063   M VAIBHAV SHUKLA                                      301     030     054     065     841     055      A1 A1 A1    PASS                      
+                                                                 062  D1 047  D2 046  D2 058  D2 076  D2 034  E 
+32670064   M ANISH KHAN                                          301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 067  C2 057  D2 047  D2 066  C1 066  B2 079  D1
+
+32670065   F ANJALI                                              301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 049  D2 076  C1 050  D1 066  C1 047  D2 071  D2
+32670066   F ARPITA SINGH                                        301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 078  C1 089  A2 071  B1 083  A2 067  B2 092  B1
+32670067   M ANUJ GUPTA                                          301     302     027     039     841     029      A1 A1 A1    PASS                      
+                                                                 058  D1 053  D2 045  D2 045  D2 065  D2 039  E 
+32670068   M ANURAG KUMAR YADAV                                  301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 071  C2 068  D1 048  D1 071  B2 066  B2 079  D1
+32670069   M ADARSH KUMAR GOND                                   301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 066  D1 084  B1 059  C2 078  B1 059  C1 083  C2
+32670070   F AYUSHI RAI                                          301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 085  B1 095  A1 062  C1 080  B1 068  B2 091  B2
+32670071   F ANCHAL PANDEY                                       301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 073  C2 079  C1 070  B2 073  B2 074  B1 087  C1
+32670072   F AYUSHI SINGH                                        301     302     027     029     841     039      A1 A1 A1    PASS                      
+                                                                 045  D2 058  D2 045  D2 051  D2 070  D2 028  E 
+32670073   M HIMANSHU BHARTI                                     301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 056  D2 066  D1 046  D2 053  D1 051  D1 074  D2
+32670074   F KASTURIKA SINGH                                     301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 075  C1 078  C1 065  B2 079  B1 060  C2 093  B1
+
+32670075   M KRISHNA KUMAR SONI                                  301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 061  D1 067  D1 050  D1 066  C1 045  D2 088  C1
+32670076   F KAJAL SINGH                                         301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 080  B2 080  B2 073  B1 072  B2 077  A2 095  A2
+32670077   M LUCKY YADAV                                         301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 047  D2 057  D2 060  C1 070  B2 049  D1 071  D2
+
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-       9
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
+
+32670078   M MOHAMAD SHAMS                                       301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 052  D2 074  C2 045  D2 062  C2 074  B1 077  D1
+32670079   F POOJA SHUKLA                                        301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 083  B2 083  B2 053  D1 078  B1 057  C2 081  D1
+32670080   M PRINCE SHAKYA                                       301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 052  D2 051  D2 046  D2 057  D1 048  D1 074  D2
+32670081   F PRAGYA MISHRA                                       301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 080  B2 093  A1 082  A2 087  A2 072  B2 094  A2
+32670082   M PUSHPENDRA SINGH                                    301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 082  B2 087  B1 081  A2 082  A2 081  A2 085  C2
+32670083   F RITU GIRI                                           301     302     029     039     841     027      A1 A1 A1    PASS                      
+                                                                 055  D2 065  D1 051  D2 045  D2 069  D2 033  E 
+32670084   F SANJANA                                             301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 060  D1 077  C1 051  D1 063  C2 050  D1 080  D1
+
+32670085   F SAIJAL THAPA                                        301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 055  D2 082  B2 046  D2 062  C2 071  B1 077  D1
+32670086   F SHRISTEE MAURYA                                     301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 084  B1 084  B1 069  B2 085  A2 080  A2 085  C2
+32670087   M TAKHELLAMBAM TAIBANGTHOI                            301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 059  D1 054  D2 049  D1 073  B2 054  C2 080  D1
+32670088   M UPENDRA SINGH YADAV                                 301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 082  B2 082  B2 056  C2 074  B2 056  C2 082  D1
+32670089   F VAISHNAVI MAURYA                                    301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 081  B2 083  B2 074  B1 080  B1 064  C1 088  C1
+32670090   F VAISHNAVI GUPTA                                     301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 059  D1 086  B1 045  D2 068  C1 062  C1 075  D2
+32670091   M VINAY KUMAR YADAV                                   301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 087  B1 089  A2 090  A1 092  A1 085  A2 098  A1
+32670092   M VISHAL DHAKA                                        301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 066  D1 080  B2 078  B1 083  A2 061  C2 098  A1
+32670093   M ZAHIDUL ISLAM                                       301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 046  D2 057  D2 046  D2 061  C2 061  C1 081  D1
+32670094   M AADARSH UPADHYAY                                    301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 085  B1 087  B1 068  B1 094  A1 077  B2 086  C2
+
+32670095   M ADARSH KUMAR                                        301     302     041     042     043     843      A1 A1 A1    PASS                      
+                                                                 076  C1 068  D1 063  B2 079  A1 096  A1 084  D1
+32670096   M ADITYA SINGH                                        301     302     041     042     043     843      A1 A1 A1    PASS                      
+                                                                 084  B1 082  B2 054  C1 062  B2 082  A2 090  C1
+32670097   F AKANKSHA                                            301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 075  C1 050  C2 052  D1 066  B2 051  D2 087  C2
+32670098   F AKANSHA KUMARI                                      301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 085  B1 091  A2 055  C2 080  A2 069  C1 088  C2
+32670099   F AKASHI SONKAR                                       301     042     043     044     083     843      A1 A1 A1    PASS                      
+                                                                 058  D1 052  D1 081  A2 081  B1 063  C2 086  C2
+32670100   F ANKITA                                              301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 086  B1 091  A2 062  B2 082  A2 082  B1 084  D1
+
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-      10
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
+
+32670101   M ANURAG PATHAK                                       301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 080  B2 072  B1 067  B1 083  A2 067  C2 085  C2
+32670102   F ANUSHKA TIWARI                                      301     042     043     044     083     843      A1 A1 A1    PASS                      
+                                                                 081  B2 052  D1 073  B1 055  D1 052  D2 078  D2
+32670103   M ARYA PATEL                                          301     042     043     044     083     843      A1 A1 A1    PASS                      
+                                                                 069  C2 054  C2 086  A2 062  C2 054  D2 089  C1
+32670104   F AVANTIKA                                            301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 084  B1 090  A2 053  D1 086  A2 078  B1 083  D1
+
+32670105   M AYUSH TANMAY SINGH                                  301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 090  A2 057  C1 067  B1 088  A1 064  C2 095  B1
+32670106   M GOVIND SINGH                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 073  C2 051  C2 066  B1 093  A1 069  C1 093  B2
+32670107   M HARSHIT KUMAR CHAUBEY                               301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 067  C2 046  D1 067  B1 093  A1 057  D1 077  D2
+32670108   F JAYA PAL                                            301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 084  B1 084  B1 053  D1 077  B1 070  C1 095  B1
+32670109   M KSHITIZ TIWARI                                      301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 072  C2 068  B1 080  A1 095  A1 057  D1 085  C2
+32670110   F KUMARI NIGAM                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 087  B1 050  C2 066  B1 090  A1 057  D1 094  B2
+32670111   F KUMARI SWEETY                                       301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 086  B1 046  D1 052  D1 074  B1 063  C2 091  C1
+32670112   F MAHI SHARMA                                         301     042     043     044     083     843      A1 A1 A1    PASS                      
+                                                                 080  B2 052  D1 088  A1 066  C1 072  C1 095  B1
+32670113   M KUSHAGRA YADAV                                      301     302     041     042     043     843      A1 A1 A1    PASS                      
+                                                                 065  D1 083  B2 049  C2 065  B1 083  A2 093  B2
+32670114   M PARTH SAROJ                                         301     302     041     042     043     843      A1 A1 A1    PASS                      
+                                                                 057  D1 072  C2 047  D1 065  B1 083  A2 073  D2
+
+32670115   F PRAKSHI SINGH                                       301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 069  C2 089  A2 052  D1 072  B1 064  C2 078  D2
+32670116   F PRATIBHA KUMARI                                     301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 089  A2 083  B2 053  D1 064  B2 066  C1 089  C1
+32670117   M PRIYANSHU SINGH BISHT                               301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 081  B2 050  C2 052  D1 079  A2 065  C2 087  C2
+32670118   F RAJ NANDANI                                         301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 076  C1 091  A2 053  D1 075  B1 056  D1 078  D2
+32670119   M RITESH KUMAR MISHRA                                 301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 065  D1 046  D1 056  C1 073  B1 056  D1 088  C2
+32670120   F RIYA KUMARI                                         301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 078  C1 085  B1 052  D1 080  A2 061  C2 081  D1
+32670121   M SAKSHAM SHUKLA                                      301     302     041     042     043     843      A1 A1 A1    PASS                      
+                                                                 079  B2 093  A1 046  D1 081  A1 087  A1 092  C1
+32670122   F SARITA YADAV                                        301     302     041     042     043     843      A1 A1 A1    PASS                      
+                                                                 070  C2 091  A2 061  B2 070  B1 097  A1 089  C1
+32670123   F SINJINI PANDEY                                      301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 071  C2 078  C1 052  D1 075  B1 053  D2 083  D1
+
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-      11
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
+
+32670124   M SHIVAM KUMAR SHAH                                   301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 067  C2 078  C1 052  D1 060  C1 060  C2 074  D2
+
+32670125   M SHUBHAM KUMAR                                       301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 051  D2 046  D1 054  C2 078  A2 069  C1 084  D1
+32670126   M SHUBHAM YADAV                                       301     042     043     083     843     041      A1 A1 A1    PASS                      
+                                                                 068  C2 052  D1 073  B1 055  D1 086  C2 031  E 
+32670127   F SHWETA BADIGER                                      301     042     043     044     083     843      A1 A1 A1    PASS                      
+                                                                 084  B1 060  B2 073  B1 073  B2 057  D1 085  C2
+32670128   M SUBODH ARYA                                         301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 071  C2 095  A1 088  A1 096  A1 077  B2 094  B2
+32670129   M VAIBHAV SINGH                                       301     042     043     083     843     041      A1 A1 A1    PASS                      
+                                                                 067  C2 052  D1 062  C1 051  D2 084  D1 036  E 
+32670130   F VARTIKA RAI                                         301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 094  A1 093  A1 063  B2 082  A2 082  B1 086  C2
+32670131   M VYOM SHUKLA                                         301     302     042     043     044     843      A1 A1 A1    PASS                      
+                                                                 070  C2 082  B2 062  B2 075  B1 060  C2 084  D1
+32670132   M ADITYA SINGH                                        301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 069  C2 089  A2 058  C2 067  B2 064  B2 089  B2
+32670133   M AMAN YADAV                                          301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 062  D1 092  A1 090  A1 083  A2 083  A2 090  B2
+32670134   F ANJALI                                              301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 065  D1 074  C2 046  D2 047  D2 046  D1 082  D1
+
+32670135   F ANSHIKA                                             301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 084  B1 071  B2 071  B2 066  B2 088  B1 086  C1
+32670136   F ANSHIKA SHUKLA                                      301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 069  C2 076  B1 075  B1 064  B2 088  B1 097  A1
+32670137   F ANSHU MOURYA                                        301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 064  D1 060  D1 047  D2 068  B2 063  B2 085  C2
+32670138   M ARCHIT WADHWA                                       301     030     041     054     055     841      A1 A1 A1    PASS                      
+                                                                 083  B2 077  B1 054  C1 076  B1 077  B1 089  B2
+32670139   M DHIREN                                              301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 065  D1 085  B1 070  B2 070  B2 058  C1 085  C2
+32670140   F DIVYA                                               301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 075  C1 090  A2 067  C1 066  C1 049  C2 090  B2
+32670141   F GUNJAN RAI                                          301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 068  C2 048  D2 066  C1 045  D2 071  D1 082  D1
+32670142   F HANSIKA KUMARI                                      301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 080  B2 084  B1 073  B2 074  B1 063  B2 082  D1
+32670143   M HARSH MALI                                          301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 050  D2 084  B1 054  D1 059  C2 062  B2 085  C2
+32670144   M KRISHNA SINGH                                       301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 049  D2 052  D2 053  D1 047  D2 059  C1 074  D2
+
+32670145   F MUSKAN RAI                                          301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 069  C2 077  B1 068  B2 049  C2 087  B2 092  B1
+32670146   M NIKHIL KUMAR MAURYA                                 301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 061  D1 063  C1 048  D1 050  C2 068  D1 080  D1
+
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-      12
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
+
+32670147   F RESHMI TIWARI                                       301     030     055     065     841     054      A1 A1 A1    PASS                      
+                                                                 069  C2 045  D2 046  D1 051  D2 068  D2 027  E 
+32670148   F SHILPI KUMARI                                       301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 059  D1 073  C2 049  D1 047  D2 044  D2 075  D2
+32670149   F SMRITI SINGH                                        301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 068  C2 067  C1 061  C1 046  D1 073  C2 091  B2
+32670150   M UTKARSH ARYA                                        301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 065  D1 073  C2 062  C1 051  D1 055  C1 082  D1
+32670151   F VAISHNAVI                                           301     302     030     054     055     841      A1 A1 A1    PASS                      
+                                                                 066  D1 083  B2 058  C2 062  C1 059  C1 092  B1
+32670152   M AEHTESAM KHAN                                       301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 045  D2 051  D2 046  D2 052  D2 062  C1 073  D2
+32670153   F ALINA HASIB                                         301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 075  C1 080  B2 063  C1 072  B2 055  C2 089  B2
+32670154   F ANAMIKA SINGH YADAV                                 301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 076  C1 066  D1 070  B2 085  A2 086  A1 090  B2
+
+32670155   F ANANYA                                              301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 054  D2 072  C2 049  D1 061  C2 071  B1 087  C1
+32670156   F ANJALI RAWAT                                        301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 048  D2 072  C2 047  D2 061  C2 055  C2 082  D1
+32670157   F ANKITA GAUTAM                                       301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 048  D2 081  B2 065  B2 082  A2 068  B2 069  D2
+32670158   F ARJOO VERMA                                         301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 080  B2 086  B1 090  A1 083  A2 093  A1 096  A2
+32670159   F KIRTI YADAV                                         301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 091  A2 090  A2 095  A1 087  A2 082  A2 097  A1
+32670160   F KRITIKA                                             301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 056  D2 060  D1 058  C2 064  C2 055  C2 080  D1
+32670161   F KUMARI AYUSHI                                       301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 048  D2 085  B1 049  D1 057  D1 048  D1 077  D1
+32670162   F NISHTHA                                             301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 052  D2 075  C1 062  C1 067  C1 046  D2 079  D1
+32670163   M MAYANK GAUTAM                                       301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 079  B2 090  A2 079  A2 077  B1 071  B1 089  B2
+32670164   M PRIYANSH SAINI                                      301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 074  C1 051  D2 066  B2 074  B2 083  A2 088  C1
+
+32670165   M SAKSHAM TIWARI                                      301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 045  D2 054  D2 059  C2 064  C2 056  C2 073  D2
+32670166   M SHIVAM GULLWANI                                     301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 059  D1 054  D2 060  C1 069  C1 071  B1 077  D1
+32670167   M SHAURYA TIWARI                                      301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 066  D1 053  D2 064  C1 084  A2 065  C1 084  C2
+32670168   F SMRITI YADAV                                        301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 066  D1 084  B1 076  B1 088  A2 064  C1 092  B1
+32670169   F TANISHA KANOJIA                                     301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 062  D1 080  B2 047  D2 058  D1 068  B2 082  D1
+
+DATE:- 13-05-2026    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2026      REGION: LUCKNOW         PAGE:-      13
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 74095   PM SHRI KENDRIYA VIDYALAYA AMC LUCKNOW UP                   
+
+32670170   M TAUSIF RAJA                                         301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 060  D1 050  D2 052  D1 067  C1 060  C2 071  D2
+32670171   M TEJASH RANA                                         301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 049  D2 073  C2 056  C2 064  C2 059  C1 088  C1
+32670172   F VAISHNAVI THAPA                                     301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 057  D1 085  B1 050  D1 062  C2 065  B2 079  D1
+32670173   M YASH KUMAR YADAV                                    301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 067  C2 063  D1 081  A2 090  A1 091  A1 089  B2
+32670174   F SHREYA SINGH                                        301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 059  D1 079  C1 073  B1 068  C1 063  C1 089  B2
+
+32670175   M AAYUSH SINGH                                        301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 055  D2 063  D1 057  C2 068  C1 072  B1 085  C2
+32670176   M DHEERAJ MANDAL                                      301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 058  D1 057  C1 065  B1 074  B1 075  B2 092  C1
+32670177   M AMAN KUMAR PANDEY                                   301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 070  C2 047  D1 070  B1 091  A1 057  D1 090  B2
+32670178   F PRIYA PANDEY                                        301     302     041     042     043     843      A1 A1 A1    PASS                      
+                                                                 082  B2 091  A2 051  C2 059  C1 088  A1 099  A2
+32670179   F SAPNA YADAV                                         301     302     027     029     030     841      A1 A1 A1    PASS                      
+                                                                 087  B1 096  A1 100  A1 091  A1 093  A1 098  A1
+32670180   F MUMTAZ JAHAN                                        301     041     042     043     083     841      A1 A1 A1    PASS                      
+                                                                 084  B1 045  D2 051  D2 058  C2 053  D2 089  B2
+32670181   M KARTIKAY SHARMA                                     301     041     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 086  B1 046  D1 051  D2 070  B1 062  C2 094  A2
+32670182   M B R NIKHIL                                          301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 069  C2 059  D2 053  D1 063  C1 060  C2 081  D1
+32670183   M ARYAN PILANIA                                       301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 095  A1 094  A1 094  A1 096  A1 093  A1 099  A2
+32670184   M AYUSH SINGH                                         301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 067  C2 045  D2 053  D1 064  B2 056  D1 086  C2
+
+32670185   F DIVYANSHI                                           301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 093  A1 076  A2 070  B1 089  A1 095  A1 099  A2
+32670186   M PRINCE SINGH                                        301     302     027     029     039     841      A1 A1 A1    PASS                      
+                                                                 050  D2 067  D1 061  C1 065  C1 070  B2 092  B1
+32670187   F AYUSHI                                              301     030     054     055     065     841      A1 A1 A1    PASS                      
+                                                                 053  D2 059  C2 064  C1 054  C1 083  C1 091  B2
+32670188   M GAURAV KUMAR                                        301     302     042     043     044     841      A1 A1 A1    PASS                      
+                                                                 074  C1 088  A2 059  C1 062  C1 062  C2 084  C2
+32670189   M FARHAN AKHTAR                                       301     042     043     044     065     841      A1 A1 A1    PASS                      
+                                                                 088  A2 052  D1 063  C1 066  C1 079  C1 094  A2
+32670190   M AVINASH DUBEY                                       301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 072  C2 045  D2 053  D1 062  C1 053  D2 087  C2
+32670191   F ISHIKA BISHT                                        301     042     043     044     843              A1 A1 A1    PASS                      
+                                                                 086  B1 058  C1 093  A1 085  A2 100  A1        
+32670192   M AAKASH DUBEY                                        301     041     042     043     083     843      A1 A1 A1    PASS                      
+                                                                 076  C1 048  C2 053  D1 066  B2 066  C2 096  B1
 
 
-TOTAL CANDIDATES :    21 TOTAL PASS :    21 TOTAL COMPTT. :     0 TOTAL ESSENTIAL REPEAT :     0 TOTAL ABSENT :     0
+TOTAL CANDIDATES :   299 TOTAL PASS :   297 TOTAL COMPTT. :     1 TOTAL ESSENTIAL REPEAT :     0 TOTAL ABSENT :     1
